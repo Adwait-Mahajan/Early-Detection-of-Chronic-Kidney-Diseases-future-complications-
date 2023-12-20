@@ -27,3 +27,13 @@ METHODOLOGY
 • Step 7: We use classification reports to understand the overall accuracies and other parameters such as f1 score, precision and recall.
 <br>
 • Step 8: Save the trained model or debug.
+<br>
+<br>
+CONCLUSION
+<br>
+<br>
+The main goal for this project was to develop predictive models which would be able to predict the likeliness of a person to suffer from Chronic Kidney Diseases (CKD) before it worsens. After successfully developing a cluster of 3 predictive models, we can now predict the likeliness of a person to suffer from CKD before it becomes deadly.
+Along with these 3 models which focused on only predicting the likeliness of presence of CKD causing inhibitors, we also developed 2 more predictive models which aimed at detecting the chances of developing serious complications such as Anemia and Diabetic Foot which are all very common and deadly for a person suffering from CKD.
+All the models which were developed had a really good accuracy scores and can thus be used even on the unseen data in the real world.
+In the next section of the report, we have shown how the models work on unseen data and by taking input from the user.
+The table 8.1 shows the final accuracies that were obtained for all the models.
